@@ -2,7 +2,7 @@
 // @name         WME Segment Node Count
 // @namespace    DarkestWays.Waze@gmail.com/wme-scripts
 // @description  Displays the number of geo-nodes in a segment in Waze Map Editor and warns if segment is too complex.
-// @version      2026.01.09.01
+// @version      2026.01.09.02
 // @author       DarkestWays
 // @match        *://*.waze.com/*editor*
 // @exclude      *://*.waze.com/user/editor*
